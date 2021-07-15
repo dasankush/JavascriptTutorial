@@ -72,7 +72,9 @@ using variables:
 ******GETTER AND SETTER TO CONTROL ACCESS OF A OBJECT******
     const person = {
         firstName: 'Mosh',
-        lastName: 'Hamedani',
+        lastName: 'Hamedani',   
+
+        
         get fullName(value){
             return '${person.firstName} ${person.lastName}`
         },

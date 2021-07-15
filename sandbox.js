@@ -12,6 +12,7 @@ function checkObj(checkProp){
     else 
         return checkProp + " property not found";
 }
+
 function binaryConvert(str){
     return parseInt(str, 2);
 }
