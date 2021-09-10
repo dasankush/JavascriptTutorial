@@ -5,7 +5,7 @@ function FuncionName(){statements;}                  //creates a function named 
 //localVariable has precedence over globalVariable
 arrays are mutable
 arrays and objects are mutable even if declared by keyword const
-testing statment
+
 
 
 ********TEMPLATE LITERAL**********
